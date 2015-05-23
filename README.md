@@ -20,3 +20,4 @@ Create program that afford:</br>
 3. save evidences list of selected areas</br>
 For [K] </br>
 1. Make report about work was done </br>
+2. Make info website based on (1) </br>
