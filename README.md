@@ -11,7 +11,7 @@ For [R] </br>
 1f. objects has id, string_data, evidence_id(FOREIGN_KEY to id of evidences) </br>
 1g. dye_types has id, name  </br>
 1h. preparations_types has id, name </strike> </br>
-</br>
+<i>Created in MySQL Workbench 6.3.3.0 32 bits</i></br>
 For [S] </br>
 Create program that afford:</br>
 1. selected image areas </br>
